@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class 3as_ACEAX_compat_Helmets
+	class Cannons_3as_ACEAX_compat_Helmets
 	{
 		addonRootClass="3as_ACEAX_compat"
         name="3as_ACEAX_compat_Helmets";
